@@ -1,5 +1,7 @@
 # Dashboard de Vendas do Xbox
 
+![alt text](assets/logo_xbox.png)          ![alt text](assets/icon_console.png)           ![alt text](assets/minecraft.png)
+
 ## Sobre o Projeto
 Este projeto foi desenvolvido como parte do desafio do curso **"Criando um Dashboard de Vendas do Xbox"**, promovido pela **Digital Innovation One (DIO)** em parceria com a **Heineken**, sob a orientação do Tech Educator **Felipe Aguiar** ([LinkedIn](https://www.linkedin.com/in/felipeaguiar-exe)). O objetivo foi criar um **dashboard interativo no Excel** para visualizar e analisar as assinaturas do **Xbox Game Pass**, **EA Play** e **Minecraft Season Pass**.
 
@@ -28,7 +30,7 @@ Durante o desenvolvimento deste projeto, pude aprimorar minhas habilidades em **
 
 ----
 
-![alt text](image-1.png)
+![alt text](assets/print_reexibir.png)
 
 ---- 
 
